@@ -16,6 +16,6 @@ The dataset can be downloaded from Kaggle: https://www.kaggle.com/datasets/prach
 
 The notebook focuses on deciding on whether to (i) over-/under-sample the data in case of imbalanced datasets, (ii) use gini or entropy as criteria, and (iii) limiting tree depth.
 
-![model_selection](model_comparison.png)
+<img src="https://github.com/THouwe/classification_decisionTrees_shippingData_Python/blob/main/model_comparison.png" width="100" height="100">
 
 ![tree](eCommerce_shipping_data_DT.pdf)
