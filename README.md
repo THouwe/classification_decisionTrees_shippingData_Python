@@ -18,6 +18,4 @@ The notebook focuses on deciding on whether to (i) over-/under-sample the data i
 
 ![model_selection](model_comparison.png)
 
-It also shows how to interpret the tree and things to pay attention to
-
 ![tree](eCommerce_shipping_data_DT.pdf)
